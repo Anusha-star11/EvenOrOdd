@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.Main-division {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.EvenOdd-background {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  height: 400px;
+  width: 400px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
